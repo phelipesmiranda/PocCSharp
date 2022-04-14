@@ -10,7 +10,7 @@
 #### Selenium.Support
 #### Selenium.WebDriver 
 #### Selenium.WebDriver.ChromeDriver |||| ***** Verificar versão, com a do navegador
-#### Selenium.WebDriver.ChromeDriver |||| ***** Verificar versão, com a do navegador
+#### Selenium.WebDriver.GeckoDriver.Win64 |||| ***** Verificar versão, com a do navegador
 #### SpecFlow
 #### SpecFlow.NUnit
 #### SpecFlow.Tools.MsBuild.Generation
