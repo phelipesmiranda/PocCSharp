@@ -1,4 +1,4 @@
-#### 01 - Instalar Visual Studio, e instalar extensões do NUnit e SpecFlow;
+#### 01 - Instalar Visual Studio, e instalar extensão do SpecFlow;
 #### 02 - Em criar novo projeto, escolher "Aplicativo do Console, com C# - Usando .NET 6.0;
 #### 03 - Clicar com botão direito do mouse no nome do projeto, e clicar em "Gerenciar Pacotes do NuGet", baixar esses pacotes:
 #### DotNetSeleniumExtras.PageObjects
