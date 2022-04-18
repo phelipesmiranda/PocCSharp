@@ -4,14 +4,15 @@
 #### DotNetSeleniumExtras.PageObjects
 #### DotNetSeleniumExtras.WaitHelpers
 #### Gherkin
+#### SpecFlow
 #### NUnit
 #### NUnit3TestAdapter
 #### NUnit.ConsoleRunner
+#### NUnit.Console
 #### Selenium.Support
 #### Selenium.WebDriver 
 #### Selenium.WebDriver.ChromeDriver |||| ***** Verificar versão, com a do navegador
 #### Selenium.WebDriver.GeckoDriver.Win64 |||| ***** Verificar versão, com a do navegador
-#### SpecFlow
 #### SpecFlow.NUnit
 #### SpecFlow.Tools.MsBuild.Generation
 #### SpecFlow.Assist.Dynamic
